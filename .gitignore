@@ -1,0 +1,15 @@
+# Compiled Java files
+*.class
+
+# Compiled output folders
+bin/
+out/
+target/
+
+# IDE settings
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
